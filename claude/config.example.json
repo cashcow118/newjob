@@ -1,0 +1,17 @@
+{
+  "_설명": "이 파일을 config.json 으로 복사한 뒤 값을 채우세요. 값을 모르면 null로 두면 보고서에 '확인 필요'로 나옵니다.",
+
+  "T": 60000000,
+  "slot_pct": 0.25,
+  "pair_pct": 0.15,
+
+  "empty_slots": null,
+  "discretion_A": null,
+  "discretion_B": null,
+  "semi_weight_pct": null,
+  "event_dday": null,
+  "limit_state": "normal",
+
+  "telegram_token": "",
+  "telegram_chat_id": ""
+}

@@ -1,0 +1,10 @@
+# 실제 설정·보유·수급 파일은 커밋하지 않는다 (텔레그램 토큰 포함)
+config.json
+holdings.csv
+foreign.csv
+sector.csv
+holidays_kr.csv
+scan_res.csv
+scan_signals.json
+reports/
+logs/
