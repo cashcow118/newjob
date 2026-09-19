@@ -2,7 +2,6 @@
 config.json
 holdings.csv
 foreign.csv
-sector.csv
 holidays_kr.csv
 scan_res.csv
 scan_signals.json
